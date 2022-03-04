@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ogden-R/node-api4-project.git"
+    "url": "git+https://github.com/Ogden-R/Build-Week-RESTful-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ogden-R/node-api4-project/issues"
+    "url": "https://github.com/Ogden-R/Build-Week-RESTful-API/issues"
   },
-  "homepage": "https://github.com/Ogden-R/node-api4-project#readme",
+  "homepage": "https://github.com/Ogden-R/Build-Week-RESTful-API#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "nodemon": "^2.0.15"
